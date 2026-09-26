@@ -1,0 +1,124 @@
+Flight â€” asset and software credits
+
+ICONS
+Battle Mech and Jet Fighter icons by Delapouite, from Game-icons.net.
+Creative Commons Attribution 3.0 (CC BY 3.0).
+https://game-icons.net/1x1/delapouite/battle-mech.html
+https://game-icons.net/1x1/delapouite/jet-fighter.html
+https://creativecommons.org/licenses/by/3.0/
+
+MODELS & TEXTURES
+Mech Assault Walker development candidate by Alimayo Arango.
+Creative Commons Attribution 3.0 (CC BY 3.0).
+https://poly.pizza/m/6s3_n8xzzvo
+https://creativecommons.org/licenses/by/3.0/
+Adapted for this game: normalized scale/axes, rigid skeletal rig, walk/idle
+and firing animations, named cannon anchors, Blender and glTF export.
+Source, attribution and reproducible authoring details: assets/boss-walker.
+
+Animated Horse ("Voxel Knights" pack) by The Voxel Store.
+https://the-voxel-store.itch.io/voxel-knights
+"All Assets can be used in any game with or without credit to The Voxel
+Store." Mesh, rig and Walk/Idle/Eat/Buck animations rebuilt into one GLB via
+Blender; details at /models/amarillo/README.txt.
+
+Open low-poly aircraft models from Poly Pizza: Jet by jeremy, Boeing 747 by
+Miha Lunar, and Predator Drone by sftwr314r8. These models are licensed under
+Creative Commons Attribution as listed on their source pages. The helicopter
+and biplane use the original procedural voxel designs.
+Original source and license details are included at /models/aircraft/README.txt.
+
+Low Poly Wild West Environment Pack: curated Amarillo scenery and props.
+Creator: LowPolyAssets. License: CC0 1.0.
+https://lowpolyassets.itch.io/low-poly-wild-west
+Original source/license details included at /models/amarillo/README.txt.
+
+Modular Train Pack (locomotive and wagon) by Quaternius, CC0 1.0.
+https://poly.pizza/bundle/Modular-Train-Pack-jYEybkFVr1
+Unmodified models, replacing the previous procedural train; details at
+/models/amarillo/README.txt.
+
+Farmer character model from the Ultimate Modular Men Pack by Quaternius,
+CC0 1.0.
+https://poly.pizza/bundle/Ultimate-Modular-Men-Pack-ZiH8muWqwQ
+The unmodified person-farmer.glb supplies every walking/standing townsfolk. The
+game clones its rig and applies varied shirt, hat, accent, and trouser colors at
+runtime. It has no baked textures and includes Walk/Run/Idle/Wave/Death and other
+clips (named "CharacterArmature|<Clip>").
+
+Voxel environment assets: Desert town (two landmark buildings) by Max Parata
+(monogon). Free for any project; credit appreciated but not required.
+https://maxparata.itch.io/voxel-desert-town
+Details at /models/landmarks/README.txt.
+
+Original voxel aircraft and creatures in src/voxels.ts, procedural skybox in
+src/atmosphere.ts, and original procedural propulsion/effect designs in src/audio.ts
+and src/audio-design.ts:
+dedicated to the public domain under CC0 1.0, to the extent permitted by law.
+Character names are used in this unofficial fan prototype; no affiliation
+or endorsement is implied. CC0 covers original geometry, not third-party marks.
+
+SOFTWARE
+Three.js â€” MIT â€” https://github.com/mrdoob/three.js/blob/dev/LICENSE
+Copyright 2010-2026 Three.js authors.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+SOUND EFFECTS
+Kenney: Sci-Fi Sounds 1.0 (2020) and Impact Sounds 1.0 (2019).
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+Sources: https://kenney.nl/assets/sci-fi-sounds
+         https://kenney.nl/assets/impact-sounds
+Twenty-nine original Ogg files are layered with original procedural
+propulsion and effect envelopes. Source checksums and reproducible
+acquisition are recorded in assets/audio/manifest.json in the development
+source.
+
+Robot Roar 3 and Robot Roar 4 by dotY21, Freesound.org. CC0 1.0 Universal.
+https://freesound.org/people/dotY21/sounds/320567/
+https://freesound.org/people/dotY21/sounds/345973/
+Used for the Assault Mech boss's roar and damage-reaction vocalizations.
+
+Thunder Clap by roboroo, Freesound.org. CC0 1.0 Universal.
+https://freesound.org/people/roboroo/sounds/436790/
+Used for the storm's lightning-strike thunder.
+
+All three Freesound files above are the site's publicly downloadable HQ
+preview MP3s (not the original WAV masters). Source checksums and
+reproducible acquisition are recorded in assets/audio/manifest.json.
+
+AMBIENT RADIO (LO-FI + ATC)
+Two independently shuffled layers mixed over each other with a slow
+crossfade; see src/ambient-radio.ts. Full provenance, byte counts and
+checksums are in assets/audio/music-manifest.json (lo-fi) and
+assets/audio/atc-manifest.json (ATC).
+
+Lo-fi: "Tokyo Sunset", "Peaceful Drift", and "Clouds" by HoliznaCC0
+(CC0 1.0, https://freemusicarchive.org/music/holiznacc0). "Lofi Hip Hop
+Funky Midnight Club" by alex-morgan, "Lofi Hip-Hop" by ZephiraMusic,
+"Coffee Lofi - Chill Lofi Ambient" by Lofi_Music_Library, "Asian Lofi
+Hip-Hop 10" by vjgalaxy, and "LoFi" by leberch, all from Pixabay
+(Pixabay Content License, https://pixabay.com/service/license-summary/).
+
+ATC: "YPAD Adelaide Air Traffic Control" by digifishmusic (CC BY 4.0) and
+"Heathrow Air Traffic Control" by kwahmah_02 and "atc.mp3" (Vancouver
+International) by 833-45 (both CC BY 3.0) from Freesound.org --
+attribution required for all three.
+
+FONTS
+Barlow Condensed â€” Jeremy Tribby; DM Sans â€” Colophon Foundry.
+SIL Open Font License 1.1. Bundled through Fontsource.
+Full font license texts are included in /licenses/.

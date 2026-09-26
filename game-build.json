@@ -1,0 +1,15 @@
+{
+  "environment": "production",
+  "namespace": "production",
+  "candidates": [
+    "fighter",
+    "helicopter",
+    "biplane",
+    "airliner",
+    "reaper",
+    "fpv",
+    "ufo",
+    "boss-walker"
+  ],
+  "sourceRevision": "64edd4592ecc22c9254b56f8ba9cfc8bba3df102"
+}

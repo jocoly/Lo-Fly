@@ -1,0 +1,19 @@
+jocoly.com landing scene asset sources
+
+Rubber duck base mesh: Ryan King Art, Rubber Duck (CC0)
+https://ryankingart.gumroad.com/l/duck
+Modified in Blender for the interactive duck scene.
+
+Earth surface: NASA Scientific Visualization Studio, Blue Marble
+https://svs.gsfc.nasa.gov/3615
+
+Moon surface: NASA Scientific Visualization Studio, CGI Moon Kit
+https://svs.gsfc.nasa.gov/4720
+
+International Space Station 3D model: NASA/Ames Research Center
+https://science.nasa.gov/3d-resources/international-space-station-iss-a/
+Converted from NASA's GLB to an uncompressed browser GLB with Blender.
+
+The Sun texture, orbit geometry, shader effects, and space background are generated for this site.
+
+Lo-Fly game asset notices are in /CREDITS.txt and /licenses/.
